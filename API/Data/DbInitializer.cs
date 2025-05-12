@@ -15,7 +15,7 @@ namespace API.Data
             //then we're going to create a new list of products to work with
             var products = new List<Product>
             {
-                new Product
+                		new Product
                 {
                     Name = "Angular Speedster Board 2000",
                     Description =
